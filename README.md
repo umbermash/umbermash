@@ -1,7 +1,7 @@
 # Rafael Gomes
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafaelgom/)
-***[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@tuliooassis)***
+
 
 ## Saudações! ✌🏻
 

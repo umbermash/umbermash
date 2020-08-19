@@ -12,7 +12,7 @@ My name is Rafael Gomes and I am Physics and Datascience student.
 - 💬 Ask me about Physics, maybe I can help you or not. ^^
 
 <!--
-**tuliooassis/tuliooassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rafaelgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
